@@ -1,0 +1,14 @@
+Ryan Cordell:
+  name        : "Ryan Cordell"
+  # bio         : "Insert bio."
+  # avatar      : "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Github"
+      icon: "fas fa-fw fa-github"
+      url: "https://github.com/rccordell"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://ryancordell.org"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/extravagantman"
