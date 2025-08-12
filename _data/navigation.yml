@@ -20,8 +20,8 @@ assessments:
         url: /assessments/3-discussion
       - title: "Lab Reports"
         url: /assessments/4-lab-reports
-	    - title: "Lab Extension"
-		    url: /assessments/5-lab-extension
+      - title: "Lab Extension"
+        url: /assessments/5-lab-extension
 
 schedule:
   - title: Overview
