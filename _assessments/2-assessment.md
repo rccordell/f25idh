@@ -19,9 +19,9 @@ In addition, Intro to DH is a course in which I want you to feel empowered to ex
 
 Ultimately, the university will require me to assign a grade to your work this semester. In order to address the concerns outlined above and create space for experimentation, you will assess your own work in this class in dialogue with me, as mentor rather than judge. You will ultimately grade your own work based by assessing your effort and performance across the course assignments as they relate to the goals you set for yourself, your work to meet those goals, and your intellectual growth during the class. 
 
-Formally, this means that I will ask you to draft self-evaluations a few times during the semester, including a final self-evaluation through which you will assign yourself a grade. Barring extreme circumstances (see the Adjustment Caveat below) this self assessment will determine your grade for the semester. Ideally, knowing this process in advance will free you to do more ambitious work from the beginning of the semester. 
+Formally, this means that I will ask you to draft self-evaluations twice during the semester: once at midterm and then at the end of the course, at which point you will assign yourself a grade. Barring extreme circumstances (see the Adjustment Caveat below) this self assessment will determine your grade for the semester. Ideally, knowing this process in advance will free you to do more ambitious work from the beginning of the semester. 
 
-To assist with these self-assessments, I have sketched out a rubric to consult below. One key distinction between classroom grading and more professional evaluations, however, is that they are not so strictly mathematical. Work fluctuates, and while most jobs have a set of expectations across areas, in reality different people—or the same people, at different times in their careers—succeed more in some areas than others. In my own life as a professor, there are years when I focus more on teaching and my research wanes, while in other years I focus on research and publication and develop my teaching less. When you evaluate, I want you to seek to evaluate yourself holistically rather than punatively. 
+To assist with these self-assessments, I have sketched out a rubric to consult below. One key distinction between classroom grading and more professional evaluations, however, is that they are not so strictly mathematical. Work fluctuates, and while most jobs have a set of expectations across areas, in reality different people—or the same people, at different times in their careers—succeed more in some areas than others. In my own life as a professor, there are years when I focus more on teaching and my research wanes, while in other years I focus on research and publication and develop my teaching less. When you evaluate, I want you to seek to evaluate yourself holistically rather than punitively. 
 
 ### My Commitments 
 
@@ -48,7 +48,7 @@ This system will only work, however, if you also commit to:
 
 ### Adjustment Caveat
 
-I do reserve the right to adjust grades as appropriate, if a student takes undue advantage of the consultative grading paradigm. However, in eight years of contract grading and five years of consultative grading I have never needed, and do not anticipate needing, to exercise this right.
+I do reserve the right to adjust grades as appropriate, if a student takes undue advantage of the consultative grading paradigm. However, in nine years of contract grading and six years of consultative grading I have never needed—and do not anticipate needing—to exercise this right.
 
 ## Incomplete grades
 
@@ -66,13 +66,12 @@ When you assess your work in IS583DH, I encourage you to take a holistic approac
 | Component | Exceeds Expectations | Meets Expectations | Below Expectations |
 | :-- | :-----: | :-----: | :-----: | 
 | Attendance and Participation | Attends all meetings and activity participates in discussion, drawing from assigned materials in specific and relevant ways. Contributes regularly to collective notes and shares relevant materials and resources. | Attends most meetings and participates in the majority of discussions. Usually contributes to collective notes and occasionally shares relevant materials and resources. | Misses a number of meetings and only occasionally participates in discussion. Contributes occasionally to collective notes. |
-| Discussion Prep | Reads all core assignments and one penumbral assignment for each discussion section and submits 3 well-developed questions or observations in the relevant Google Doc | Reads the majority core assignments and usually one penumbral assignment for each discussion section and submits 3 questions or observations in the relevant Google Doc | Does not consistently read assigned materials and struggles to submit discussion prep |
-| Lab Reports | Completes all lab activities and submits well-developed lab reports for each that describe praxis in light of our reading and discussions. | Completes the majority of lab activities and submits lab reports that tie praxis with our readings and discussions | Only completes a few lab activities and submits some lab reports. | 
-| Final Project Proposal | Contributes substantively to their group's project, including its conceptualization, intellectual development, and writing. Takes leadership in the project development. | Contributes to their group's project, including its conceptualization, intellectual development, and writing. | Does not contribute sufficiently to their group's project. |
+| [Discussion Prep]({{site.baseurl}}/assessments/3-discussion) | Reads all core assignments and one penumbral assignment for each discussion section, often chooses 3 specific quotations to excerpt, and usually submits 3 well-developed questions or observations in the discussion thread for that day | Reads the majority of core assignments and usually one penumbral assignment for each discussion section, usually chooses 2 specific quotations to excerpt, and typically submits 2 questions or observations in the discussion thread for that day | Does not consistently read assigned materials and struggles to submit discussion prep |
+| [Lab Reports]({{site.baseurl}}/assessments/4-lab-reports) | Completes all lab activities and submits well-developed lab reports for each that describe praxis in light of our reading and discussions. | Completes the majority of lab activities and submits lab reports that tie praxis with our readings and discussions | Only completes a few lab activities and submits some lab reports. | 
 
 ### Sample grades based on rubric:
 
 - A: Generally exceeds expectations consistently across all grade contract categories throughout the semester
 - B: Generally meets expectations across grade categories
-- C: Mostly meets expectations, but may fall short in 1-2 categories
+- C: Mostly meets expectations, but may fall short in 1 categories
 - D or F: does not meet expectations in most categories

@@ -14,7 +14,7 @@ If you look at the schedule, you will see our weeks divided into six units, each
 + (roughly) Bi-weekly
 + Students work individually
 + Students complete lab activity and submit 500-1000 word report
-+ Due within 2 weeks of the lab session
++ Due within 2 weeks of each lab session
 
 ### Assignment Details
 

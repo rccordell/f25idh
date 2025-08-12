@@ -20,8 +20,8 @@ assessments:
         url: /assessments/3-discussion
       - title: "Lab Reports"
         url: /assessments/4-lab-reports
-      - title: "Final Project Proposal"
-        url: /assessments/5-project-proposal
+	    - title: "Lab Extension"
+		    url: /assessments/5-lab-extension
 
 schedule:
   - title: Overview
@@ -30,29 +30,29 @@ schedule:
         url: /schedule/00-overview
   - title: Weekly Activities
     children:  
-      - title: "<b>August 29</b><br> What is Digital Humanities (in 2024)?"
+      - title: "<b>August 28</b><br> What is Digital Humanities (in 2024)?"
         url: /schedule/01-what-is-dh
-      - title: "<b>September 5</b><br> What is Humanities Data?"
+      - title: "<b>September 4</b><br> What is Humanities Data?"
         url: /schedule/02-data
-      - title: "<b>September 12</b><br> Lab: 3 Ways of Looking at DH Data"
+      - title: "<b>September 11</b><br> Lab: 3 Ways of Looking at DH Data"
         url: /schedule/03-data-lab
-      - title: "<b>September 19</b><br> Text as Data"
+      - title: "<b>September 18</b><br> Text as Data"
         url: /schedule/04-text
-      - title: "<b>September 26</b><br> Lab: Analyzing Text"
+      - title: "<b>September 25</b><br> Lab: Analyzing Text"
         url: /schedule/05-text-lab
-      - title: "<b>October 3</b><br> Humanities Data Perspectives"
+      - title: "<b>October 2</b><br> Humanities Data Perspectives"
         url: /schedule/06-viz
-      - title: "<b>October 10</b><br> Lab: Visualizing Networks"
+      - title: "<b>October 9</b><br> Lab: Visualizing Networks"
         url: /schedule/07-viz-lab
-      - title: "<b>October 17</b><br> DH's Next Top Model"
+      - title: "<b>October 16</b><br> DH's Next Top Model"
         url: /schedule/08-models
-      - title: "<b>October 24</b><br> Lab: DH + AI = ?"
+      - title: "<b>October 23</b><br> Lab: DH + AI = ?"
         url: /schedule/09-models-lab
-      - title: "<b>October 31</b><br> Making DH Manifest"
+      - title: "<b>October 30</b><br> Making DH Manifest"
         url: /schedule/10-making
-      - title: "<b>November 7</b><br> Lab: #DHMakes"
+      - title: "<b>November 6</b><br> Lab: #DHMakes"
         url: /schedule/11-making-lab
-      - title: "<b>November 14</b><br> Lab: DH Archives"
+      - title: "<b>November 13</b><br> Lab: DH Archives"
         url: /schedule/12-archives
 
 
