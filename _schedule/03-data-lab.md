@@ -2,22 +2,22 @@
 title: "Lab: 3 Ways of Looking at DH Data"
 permalink: /schedule/03-data-lab/
 toc: true
-class_date: 2024-09-12
+class_date: 2024-09-11
 ---
 
 ## Lab Topic
 
 _We can't possibly cover all the ways DH projects conceive of and operationalize "data" in a single lab. Instead, we will focus on a discrete humanistic text-object that can be modeled and used in very different ways, through different data types, and toward different project purposes. Ultimately, our goal is help you think about a core set of questions that face every DH project, which are 1. what are this project's primary outcomes/deliverables (research, pedagogical, public)?; 2. what data type(s) will facilitate those outcomes?; and 3. what resources, staffing, and expertise will we need to create those data types from our source materials?_
 
-#### [Collaborative Lab Notes Doc](https://docs.google.com/document/d/1Sb0B0UjXyxts_VTfLVMV4LZ07235F4tz8rCCraWziLc/edit?usp=sharing)
-
 ### Preparation
 
-Please [join my Posit Cloud space](https://posit.cloud/spaces/11704/join?access_code=5aeiqWjSoDjUD1rhC00do9LmobbvTpG6tRx5xXdp) prior to class, so that we do not have to get this set up during class.
+TBA
 
 ### Instructions
 
-Today we will look at one source of data used by lots of digital humanists working on American history, literature, religion, and culture: the Library of Congress' [Chronicling America](https://chroniclingamerica.loc.gov) archive of historical newspapers. This is the largest data source we use in the [_Viral Texts_](https://viraltexts.org) project, and because it is open-access and relatively easy to use through search or the site's [application programming interface](https://chroniclingamerica.loc.gov/about/api/), or API, many DH scholars turn to this as a resource. Chronicling America is also a great example of Collections as Data, and the LoC team—and in particular the [LC Labs](https://labs.loc.gov) group—have been leaders in CoD conversations. 
+TBA
+
+<!-- Today we will look at one source of data used by lots of digital humanists working on American history, literature, religion, and culture: the Library of Congress' [Chronicling America](https://chroniclingamerica.loc.gov) archive of historical newspapers. This is the largest data source we use in the [_Viral Texts_](https://viraltexts.org) project, and because it is open-access and relatively easy to use through search or the site's [application programming interface](https://chroniclingamerica.loc.gov/about/api/), or API, many DH scholars turn to this as a resource. Chronicling America is also a great example of Collections as Data, and the LoC team—and in particular the [LC Labs](https://labs.loc.gov) group—have been leaders in CoD conversations. 
 
 What I want to think about is how discipline, scale, and research questions shape what humanities data consists of, and how the boundaries of data shift for distinct research questions and methodologies. We will focus on 3 distinct ways of "looking at" Chronicling America's data. These 3 perspectives are by no means exhaustive, and we will at least gesture towards other approaches that would address this data disciplinarily or methodologically. For librarians in training, today's lab aims to model a kind of DH consultation, as we consider a single source of data and triangulate how to approach it based on distinct research or pedagogical questions.
 
@@ -68,7 +68,7 @@ A [lab report]({{site.baseurl}}/assessments/4-lab-reports) that demonstrates com
 ### Resources
 
 + _Programming Historian_'s list of [data manipulation lessons](https://programminghistorian.org/en/lessons/?topic=data-manipulation) and [data management lessons](https://programminghistorian.org/en/lessons/?topic=data-management)
-+ David J. Birnbaum, "What is XML and why should humanists care? An even gentler introduction to XML" (2021), [external link](http://dh.obdurodon.org/what-is-xml.xhtml)
-+ Elisa Beshero-Bondar, Lee Skallerup Bessette, Quinn Dombrowski, and Roopika Risam, _DSC /#5: The DSC and the Impossible TEI Quandaries_ (2020), [external link](https://datasittersclub.github.io/site/dsc5.html)
-+ Matthew D. Lincoln, Scott B. Weingart, and Nickoal Eichmann-Kalwara,“The Index of Digital Humanities Conferences,” (2021), [external link](https://doi.org/10.5334/johd.26)
-+ "Responsible Datasets in Context" (2024), [external link](https://www.responsible-datasets-in-context.com)
++ David J. Birnbaum, "What is XML and why should humanists care? An even gentler introduction to XML" (2021), [external resource](http://dh.obdurodon.org/what-is-xml.xhtml)
++ Elisa Beshero-Bondar, Lee Skallerup Bessette, Quinn Dombrowski, and Roopika Risam, _DSC /#5: The DSC and the Impossible TEI Quandaries_ (2020), [external resource](https://datasittersclub.github.io/site/dsc5.html)
++ Matthew D. Lincoln, Scott B. Weingart, and Nickoal Eichmann-Kalwara,“The Index of Digital Humanities Conferences,” (2021), [external resource](https://doi.org/10.5334/johd.26)
++ "Responsible Datasets in Context" (2024), [external resource](https://www.responsible-datasets-in-context.com) -->
