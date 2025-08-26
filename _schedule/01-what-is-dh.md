@@ -1,5 +1,5 @@
 ---
-title: "What is Digital Humanities (in 2024)?"
+title: "What is Digital Humanities (in 2025)?"
 permalink: /schedule/01-what-is-dh/
 toc: true
 class_date: 2024-08-28

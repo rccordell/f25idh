@@ -7,7 +7,7 @@ class_date: 2024-10-23
 
 ## Lab Topic
 
-### Instructions
+## Instructions
 
 Hopefully, you've already downloaded [Gephi](https://gephi.org), but if not you will need it for today's workshop.
 

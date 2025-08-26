@@ -17,7 +17,7 @@ For this lab, you should spend at least 5 days, but ideally one week, doing the 
 
 As this is a longer lab assignment with more expected outside of class, you will have 4 weeks to complete it rather than the typical 2.
 
-### Prewriting (in class 11/7)
+### Prewriting (in class 11/6)
 
 For this prewriting assignment, you must choose what data you will be recording and outline your methods for doing so, in preparation for actually recording the data in a week soon to come. 
 

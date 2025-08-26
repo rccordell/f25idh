@@ -1,5 +1,5 @@
 ---
-title: "Lab: 3 Ways of Looking at DH Data"
+title: "Lab: Scales of Data"
 permalink: /schedule/03-data-lab/
 toc: true
 class_date: 2024-09-11

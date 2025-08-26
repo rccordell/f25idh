@@ -1,5 +1,5 @@
 ---
-title: "Humanities Data Perspectives"
+title: "Visualizing Humanities Data"
 permalink: /schedule/08-viz/
 toc: true
 class_date: 2024-10-16

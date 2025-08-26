@@ -19,4 +19,3 @@ _Our class decided to dig more into digital humanities relationships to archives
 ### Penumbra
 
 + Browse, posts about the [Queer Zine Archive Project](https://gittings.qzap.org)
-+ any essay(s) from the Minimal Computing cluster on _DHQ_ (2022), [external resource](http://digitalhumanities.org:8081/dhq/vol/16/2/index.html)

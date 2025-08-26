@@ -8,6 +8,7 @@ toc_sticky: true
 ## Assignment Overview
 
 + Students will work individually to extend their knowledge of a DH method
++ A writeup of ~1500-2000 words
 + Assignment can be completed at any time during the semester, but must be finished before December 12
 
 ## Assignment Details
@@ -23,5 +24,7 @@ For this assignment you will choose a DH methodology and undertake a small-scale
 You should work with humanities-related data for this assignments. As our discussions in this class will have helped illustrate, that is a pretty capacious remit, but there are limits. Data drawn from fields like history, literature, religious studies, philosophy, and art history are clearly relevant. Data about run times or caloric intake—well, probably not. If you are unsure, chat with me about what you are thinking.
 
 There are other options, but one very straightforward way to complete this assignment would be to follow [a lesson at the _Programming Historian_](https://programminghistorian.org/en/lessons/), which publishes peer-reviewed, step-by-step tutorials about a wide range of DH methods. 
+
+After experimenting and developing your understanding of the given method, you should write a brief process paper that puts your experiments into dialogue with your research interests as well as several writers from our course to analyze 1. what you did 2. what humanistic insights those experiments offered 3. what pitfalls you noticed and, finally 4. how you might imagine developing further expertise in this method and why.
 
 
